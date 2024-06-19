@@ -1,4 +1,4 @@
-package com.example.lista_de_tareas;
+package com.jesusmanzano.lista_de_tareas;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.lista_de_tareas.R;
 
 import java.util.ArrayList;
 import java.util.List;
